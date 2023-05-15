@@ -1,3 +1,4 @@
+"use client"
 export default function ToDoDetailLayout({children}) {
   console.log("ToDo details layout");
   return (

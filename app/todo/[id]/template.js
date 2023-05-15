@@ -1,3 +1,4 @@
+"use client"
 export default function ToDoDetailTemplate({children}) {
   console.log("ToDo details template");
   return (
