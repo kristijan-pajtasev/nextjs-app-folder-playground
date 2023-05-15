@@ -1,7 +1,9 @@
+"use client" // must be client side
 export default function Error({
                                 error,
                                 reset,
                               }) {
+  console.log(error, reset)
 
   return (
     <div>
