@@ -1,4 +1,6 @@
 "use client"
+
+// .. rest of the code
 import {useEffect, use} from 'react'
 
 const getData = () => {
